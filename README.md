@@ -11,3 +11,5 @@ Analyzing the market size for electric vehicles involves several key steps:
 3. **Trend Identification**: Use historical data to identify trends in EV sales, production, and market dynamics.
 4. **Segment Analysis**: Assess market size and growth rates for various EV segments.
 5. **Strategic Recommendations**: Based on the analysis, provide actionable recommendations for businesses aiming to enter or expand in the EV market.
+
+For Dataset follow this link to Download - https://statso.io/market-size-of-evs-case-study/
